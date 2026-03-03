@@ -76,7 +76,7 @@ This project demonstrates a complete **data analytics workflow** — from data l
 
 ## 📬 Contact
 
-**Author:** Abhishek Raj
-**Role:** Data Analyst | Power BI & SQL Enthusiast
-**LinkedIn:** https://www.linkedin.com/in/abhishek-raj-b3ab32360/
-
+## **Author:** Abhishek Raj  PL-300 Certified Data Analyst | Power BI & SQL Enthusiast
+- LinkedIn: https://www.linkedin.com/in/abhishek-raj-b3ab32360/
+- Email: araj9797@gmail.com
+  
