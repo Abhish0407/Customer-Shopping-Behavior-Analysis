@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+# Customer Segmentation & Lifecycle Analytics
 
 
 ## 📘 Overview
@@ -52,7 +52,7 @@ This project demonstrates a complete **data analytics workflow** — from data l
 * Purchase Trends by Age Group and Subscription Status
 * Product Category Insights
 * Customer Retention and Loyalty Metrics
-
+![Customer Dashboard](dashboard.png)
 ---
 
 ## 🧾 Results & Insights
